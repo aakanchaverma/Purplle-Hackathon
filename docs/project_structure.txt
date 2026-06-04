@@ -1,0 +1,59 @@
+STORE-INTELLIGENCE/
+├── app/
+│   ├── __init__.py
+│   ├── anomalies.py
+│   ├── database.py
+│   ├── event_loader.py
+│   ├── funnel.py
+│   ├── heatmap.py
+│   ├── ingestion.py
+│   ├── main.py
+│   ├── metrics.py
+│   ├── models.py
+│   └── sessions.py
+├── dashboard/
+│   └── dashboard.py
+├── data/
+│   ├── store1/
+│   │   └── layout.png
+│   ├── store2/
+│   │   └── layout.png
+│   ├── events_store2.jsonl
+│   ├── pos_transactions.csv
+│   ├── store1_zone_a.jsonl
+│   ├── store1_zone_b.jsonl
+│   ├── store2_billing_events.jsonl
+│   └── store2_zone.jsonl
+├── docs/
+│   ├── architecture.md
+│   ├── CHOICES.md
+│   ├── DESIGN.md
+│   ├── project_structure.txt
+│   └── project_summary.md
+├── pipeline/
+│   ├── generate_analytics.py
+│   ├── store1_zone_a_events.py
+│   ├── store1_zone_b_events.py
+│   ├── store2_billing_events.py
+│   ├── store2_entry_events.py
+│   └── store2_zone_events.py
+├── venv/
+├── videos/
+│   ├── store1/
+│   │   ├── billing.mp4
+│   │   ├── entry.mp4
+│   │   ├── zone_a.mp4
+│   │   └── zone_b.mp4
+│   └── store2/
+│       ├── billing.mp4
+│       ├── entry_a.mp4
+│       ├── entry_b.mp4
+│       └── zone.mp4
+├── .dockerignore
+├── analytics_output.json
+├── docker-compose.yml
+├── Dockerfile
+├── README.md
+├── requirements.txt
+├── store.db
+└── yolov8n.pt
