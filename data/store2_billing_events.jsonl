@@ -1,0 +1,5 @@
+{"event_id": "22507fc4-baa1-47b4-b7f7-9224ba258005", "store_id": "STORE2", "camera_id": "BILLING", "visitor_id": "VIS_14", "event_type": "QUEUE_JOIN", "timestamp": "2026-06-04T07:54:55.259191", "zone_id": "QUEUE", "confidence": 0.9}
+{"event_id": "da7d7010-04fb-46a0-b1d6-9eacf69e9cb7", "store_id": "STORE2", "camera_id": "BILLING", "visitor_id": "VIS_18", "event_type": "QUEUE_JOIN", "timestamp": "2026-06-04T07:54:59.418551", "zone_id": "QUEUE", "confidence": 0.9}
+{"event_id": "713c97d0-7336-49df-95e4-b49ca4ee6dda", "store_id": "STORE2", "camera_id": "BILLING", "visitor_id": "VIS_33", "event_type": "QUEUE_JOIN", "timestamp": "2026-06-04T07:55:29.369292", "zone_id": "QUEUE", "confidence": 0.9}
+{"event_id": "f459937e-3d1d-4090-9b6d-cab060c96d9d", "store_id": "STORE2", "camera_id": "BILLING", "visitor_id": "VIS_56", "event_type": "QUEUE_JOIN", "timestamp": "2026-06-04T07:56:17.700852", "zone_id": "QUEUE", "confidence": 0.9}
+{"event_id": "6e0eef34-c653-4113-9d82-2dc7013a464d", "store_id": "STORE2", "camera_id": "BILLING", "visitor_id": "VIS_56", "event_type": "BILLING_ENTER", "timestamp": "2026-06-04T07:56:23.817596", "zone_id": "COUNTER", "confidence": 0.9}

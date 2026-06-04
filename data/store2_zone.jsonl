@@ -1,0 +1,16 @@
+{"event_id": "1997f2ab-604d-4aa6-bfb5-facb08ec6eb2", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_26", "event_type": "ZONE_ENTER", "timestamp": "2026-06-04T06:17:37.158564"}
+{"event_id": "4e0d7530-d536-4224-8efc-0e9b7b186627", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_39", "event_type": "ZONE_ENTER", "timestamp": "2026-06-04T06:18:12.346261"}
+{"event_id": "0591eaaa-6a62-4bbd-b9d9-4402ef631893", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_46", "event_type": "ZONE_ENTER", "timestamp": "2026-06-04T06:18:25.293033"}
+{"event_id": "e69a70c4-f92b-4440-9066-1f657afd8014", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_26", "event_type": "ZONE_EXIT", "timestamp": "2026-06-04T06:18:34.200657", "dwell_seconds": 13.24}
+{"event_id": "3a8d1d5b-3f91-4af2-9f4c-b6e7aab761f2", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_52", "event_type": "ZONE_ENTER", "timestamp": "2026-06-04T06:18:47.055439"}
+{"event_id": "c5d32a17-1b87-4b1b-8cf3-aa4ad393b1b8", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_52", "event_type": "ZONE_EXIT", "timestamp": "2026-06-04T06:19:06.080506", "dwell_seconds": 5.52}
+{"event_id": "72b0d567-01bd-475b-948f-9edd2068ba9f", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_39", "event_type": "ZONE_EXIT", "timestamp": "2026-06-04T06:19:10.653458", "dwell_seconds": 11.64}
+{"event_id": "21a4113e-5185-4930-9e5c-e1155172acd8", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_75", "event_type": "ZONE_ENTER", "timestamp": "2026-06-04T06:19:21.602354"}
+{"event_id": "fa2b6774-eb20-4152-946c-6ef8a41fe239", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_46", "event_type": "ZONE_EXIT", "timestamp": "2026-06-04T06:19:26.305804", "dwell_seconds": 12.32}
+{"event_id": "9f35e357-98c8-43d5-912d-1b40b371ed19", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_121", "event_type": "ZONE_ENTER", "timestamp": "2026-06-04T06:19:47.097196"}
+{"event_id": "811cd8d3-ed70-474f-888c-410dfff6355c", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_75", "event_type": "ZONE_EXIT", "timestamp": "2026-06-04T06:19:50.583360", "dwell_seconds": 7.6}
+{"event_id": "a7fc35d7-a018-4151-bfc9-0c7be6410966", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_121", "event_type": "ZONE_EXIT", "timestamp": "2026-06-04T06:20:07.851562", "dwell_seconds": 6.08}
+{"event_id": "3eced79c-cf6a-4b87-a0bf-54f60adb722b", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_144", "event_type": "ZONE_ENTER", "timestamp": "2026-06-04T06:20:30.789777"}
+{"event_id": "c207112e-0f30-4828-a359-12a215393527", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_144", "event_type": "ZONE_EXIT", "timestamp": "2026-06-04T06:22:35.819095", "dwell_seconds": 25.84}
+{"event_id": "1eed63e9-d5da-4ca4-a2de-baa8be15a996", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_166", "event_type": "ZONE_ENTER", "timestamp": "2026-06-04T06:23:40.833647"}
+{"event_id": "b90eea55-fc3a-4f22-a3c5-738e7cedcb39", "store_id": "STORE2", "camera_id": "ZONE", "visitor_id": "VIS_166", "event_type": "ZONE_EXIT", "timestamp": "2026-06-04T06:24:05.586859", "dwell_seconds": 9.84}
