@@ -1,0 +1,27 @@
+{
+  "entry_metrics": {
+    "entries": 14,
+    "exits": 6
+  },
+  "zone_metrics": {
+    "zone_visits": 8,
+    "avg_dwell_seconds": 11.51
+  },
+  "billing_metrics": {
+    "queue_count": 7,
+    "billing_count": 0
+  },
+  "event_type_summary": {
+    "ENTRY": 14,
+    "EXIT": 6,
+    "ZONE_ENTER": 8,
+    "ZONE_EXIT": 8,
+    "QUEUE_JOIN": 7
+  },
+  "business_insights": {
+    "queue_pressure": 7,
+    "zone_engagement": 8,
+    "conversion_proxy": 0.0,
+    "conversion_rate": 0.0
+  }
+}

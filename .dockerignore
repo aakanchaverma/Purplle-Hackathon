@@ -1,0 +1,10 @@
+data/
+pipeline/
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.pt
+.git
+videos/
